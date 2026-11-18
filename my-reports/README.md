@@ -61,6 +61,11 @@ Full comparison: see `../VERIFICATION.md`.
 - `04-tavola-realty.md`
 - `05-tavola-international.md`
 - `06-tavola-creative.md`
+- `07-implementation-status-corrected.md` — corrected version of the follow-up
+  "On-Page SEO Implementation Report" (Tavola Creative & Tavola International)
 
 Each lists what is actually true, what is wrong in the original, and a
 prioritised action list backed by live evidence.
+
+Verification of the follow-up implementation report:
+`../verification/VERIFICATION-IMPLEMENTATION.md`.
